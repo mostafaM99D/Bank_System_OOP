@@ -1,0 +1,68 @@
+﻿  Bank_System_OOP.cpp
+D:\Coding\MyProjects\Bank_System_OOP\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsUtil.h(67,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankClient.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsPerson.h(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsShowLoginScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankUser.h(137,14): warning C4091: 'static ': ignored on left of 'clsBankUser::enPermessions' when no variable is declared
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankUser.h(151,9): warning C4240: nonstandard extension used: access to 'clsBankUser::stLoginLogs' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_System_OOP.cpp')
+      D:\Coding\MyProjects\Bank_System_OOP\clsBankUser.h(111,9):
+      see declaration of 'clsBankUser::stLoginLogs'
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankUser.h(262,14): warning C4091: 'static ': ignored on left of 'clsBankUser::enSaveStatus' when no variable is declared
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsMainMenuScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\DeleteScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsShowDepositeScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsShowWithDrawScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsShowDeleteUserScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\LogsScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank_System_OOP.cpp')
+  
+D:\Coding\MyProjects\Bank_System_OOP\clsBankClient.h(234,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Bank_System_OOP.vcxproj -> D:\Coding\MyProjects\Bank_System_OOP\x64\Debug\Bank_System_OOP.exe

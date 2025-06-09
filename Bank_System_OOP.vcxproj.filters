@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\MainMenu">
+      <UniqueIdentifier>{9f8638f2-60d8-4362-a531-071ed5d8c7a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Transaction">
+      <UniqueIdentifier>{a98c6a4e-2e31-4009-b67e-4a07ffc6ab54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ManageUser">
+      <UniqueIdentifier>{ba53e2be-e319-4192-aa92-a796218f0ff4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Login">
+      <UniqueIdentifier>{c1b2c5c6-5a00-47b7-9553-f6a2124ffad7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Bank_System_OOP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clsSession.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clsHeader.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imp_Headers\clsDate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imp_Headers\clsInputValidate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imp_Headers\clsString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Imp_Headers\clsUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Bank_System\Core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsHeader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllScreen.h">
+      <Filter>Header Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewScreen.h">
+      <Filter>Header Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteScreen.h">
+      <Filter>Header Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUpdateScreen.h">
+      <Filter>Header Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="clsFindScreen.h">
+      <Filter>Header Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowTransactionScreen.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainMenuScreen.h">
+      <Filter>Header Files\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowDepositeScreen.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowWithDrawScreen.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowTotalBalanceScreen.h">
+      <Filter>Header Files\Transaction</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowManageUserScreen.h">
+      <Filter>Header Files\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBankUser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowUsersListScreen.h">
+      <Filter>Header Files\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewUserScreen.h">
+      <Filter>Header Files\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowUpdateScreen.h">
+      <Filter>Header Files\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowDeleteUserScreen.h">
+      <Filter>Header Files\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowFindUserScreen.h">
+      <Filter>Header Files\ManageUser</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCheckPermessions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowLoginScreen.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSession.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogsScreen.h">
+      <Filter>Header Files\Login</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
