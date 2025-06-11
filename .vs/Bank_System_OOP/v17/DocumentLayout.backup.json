@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "D:\\Coding\\MyProjects\\Bank_System_OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\clsShowManageUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:clsShowManageUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\clsShowUpdateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:clsShowUpdateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\LogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:LogsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\clsBankUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:clsBankUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\clsMainMenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:clsMainMenuScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|D:\\Coding\\MyProjects\\Bank_System_OOP\\Bank_System_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C09F4F7C-FE6E-4AEF-8829-75084F1A45F8}|Bank_System_OOP.vcxproj|solutionrelative:Bank_System_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -47,84 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "clsShowManageUserScreen.h",
-              "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsShowManageUserScreen.h",
-              "RelativeDocumentMoniker": "clsShowManageUserScreen.h",
-              "ToolTip": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsShowManageUserScreen.h",
-              "RelativeToolTip": "clsShowManageUserScreen.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T20:30:22.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "clsShowUpdateScreen.h",
-              "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsShowUpdateScreen.h",
-              "RelativeDocumentMoniker": "clsShowUpdateScreen.h",
-              "ToolTip": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsShowUpdateScreen.h",
-              "RelativeToolTip": "clsShowUpdateScreen.h",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAADgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T20:29:39.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsAddNewUserScreen.h",
-              "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsAddNewUserScreen.h",
-              "RelativeDocumentMoniker": "clsAddNewUserScreen.h",
-              "ToolTip": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsAddNewUserScreen.h",
-              "RelativeToolTip": "clsAddNewUserScreen.h",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T20:25:18.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogsScreen.h",
-              "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\LogsScreen.h",
-              "RelativeDocumentMoniker": "LogsScreen.h",
-              "ToolTip": "D:\\Coding\\MyProjects\\Bank_System_OOP\\LogsScreen.h",
-              "RelativeToolTip": "LogsScreen.h",
-              "ViewState": "AgIAACQAAAAAAAAAAAAUwBMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T20:09:48.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "clsMainMenuScreen.h",
-              "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsMainMenuScreen.h",
-              "RelativeDocumentMoniker": "clsMainMenuScreen.h",
-              "ToolTip": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsMainMenuScreen.h",
-              "RelativeToolTip": "clsMainMenuScreen.h",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAAHQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T20:07:46.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "clsBankUser.h",
-              "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsBankUser.h",
-              "RelativeDocumentMoniker": "clsBankUser.h",
-              "ToolTip": "D:\\Coding\\MyProjects\\Bank_System_OOP\\clsBankUser.h",
-              "RelativeToolTip": "clsBankUser.h",
-              "ViewState": "AgIAABsBAAAAAAAAAAAAADUBAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-09T20:04:51.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Bank_System_OOP.cpp",
               "DocumentMoniker": "D:\\Coding\\MyProjects\\Bank_System_OOP\\Bank_System_OOP.cpp",
               "RelativeDocumentMoniker": "Bank_System_OOP.cpp",

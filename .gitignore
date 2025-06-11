@@ -1,32 +1,46 @@
-# Prerequisites
-*.d
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+## Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
 *.exe
-*.out
-*.app
+*.dll
+*.pdb
+*.cache
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider/JetBrains
+.idea/
+*.sln.iml
+
+## Other
+*.dbmdl
+*.bak
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.class
+
+## OS-specific
+.DS_Store
+Thumbs.db
